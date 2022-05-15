@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  talksandcertifications:
     output: true
     permalink: /:collection/:path/
 
@@ -239,9 +239,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: talksandcertifications
     values:
-      layout: talk
+      layout: talksandcertifications
       author_profile: true
       share: true
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks and Certifications"
-permalink: /talks/
+permalink: /talksandcertifications/
 author_profile: true
 ---
 
