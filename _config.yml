@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yatri Patel"
 title_separator          : "-"
 name                     : &name "Yatri Patel"
-description              : &description "Software Engineer at TVA. Pursuibg Masters in Analytics at Georgia Institute of Technology."
+description              : &description "Software Engineer at TVA. Pursuing Masters in Analytics at Georgia Institute of Technology."
 url                      : https://yatri1609.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yatri Patel"
   avatar           : "yatripatel.jpeg"
-  bio              : "Software Engineer at Tennessee Valley Authority (TVA). Data Analytics masters student at University of Tennessee at Chattanooga."
+  bio              : "Software Engineer at Tennessee Valley Authority (TVA). Pursuing Masters in Analytics at Georgia Institute of Technology."
   location         : "1101 Market St, TN 37402, USA"
   employer         : "Tennessee Valley Authority"
   pubmed           : 
