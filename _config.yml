@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yatri Patel"
 title_separator          : "-"
 name                     : &name "Yatri Patel"
-description              : &description "Software Engineer at TVA. Data Analytics masters student at University of Tennessee at Chattanooga."
+description              : &description "Software Engineer at TVA. Pursuibg Masters in Analytics at Georgia Institute of Technology."
 url                      : https://yatri1609.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
