@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-Portfolio
-------
-
 ### Spotify Listening Habit Analysis: <br>
 
 [GitHub Repository](https://github.com/yatri1609/Spotify-Analysis)
