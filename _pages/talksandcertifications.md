@@ -9,11 +9,11 @@ author_profile: true
 
 Talks
 ------
-* **Misty The Robot:** <br> Talked about Misty the Robot at the launch of TechX, the innovation center of TVA. 
+* **Misty The Robot:** <br> Presented multiple capabilities of Misty the Robot at the Technology Experience Center launch at TVA, facilitating interactive experiences for over 100 attendees. 
 
 Certifications
 ------
 * Lean Six Sigma
 * Systems Thinking
 * Systems Mapping
-* Tableau 
+* AWS Certified Cloud Practitioner 
