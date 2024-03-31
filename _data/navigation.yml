@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Portfolio and Projects"
+    url: /portfolio/
 
   - title: "Talks and Certifications"
     url: /talksandcertifications/   
@@ -11,6 +14,3 @@ main:
     
   - title: "CV"
     url: /cv/
-
-  - title: "Portfolio and Projects"
-    url: /portfolio/
