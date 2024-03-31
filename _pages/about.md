@@ -10,6 +10,10 @@ redirect_from:
 
 About Me
 ------
-I am a Software Engineer at <a href="https://www.tva.com/">Tennessee Valley Authority (TVA)</a> I am a Masters student majoring in Analytics at <a href="https://www.gatech.edu/">Georgia Institute of Technology (GATech)</a>. I graduated with BSCS in Data Science from University of Tennessee at Chattanooga in 2021. During my undergraduate studies I was an undergraduate researcher at <a href="https://www.utc.edu/research/center-urban-informatics-and-progress">Center for Urban Informatics and Progress (CUIP)</a> CUIP under Dr. <a href="https://www.utc.edu/directory/pkz758-college-of-engineering-and-computer-science-mina-sartipi/pkz758">Mina Sartipi</a>. I worked on the public transit optimization project in collaboration with Chattanooga's public bus transit service called CARTA. 
+I am a Software Engineer at <a href="https://www.tva.com/">Tennessee Valley Authority (TVA)</a> with 3+ years of experience in software engineering, data science, machine learning and data analytics. I am also currently a Master's student in Analytics at the prestigious <a href="https://www.gatech.edu/">Georgia Institute of Technology (Georgia Tech)</a>. My passion for data and technology began early on, leading me to pursue a Bachelor of Science in Computer Science with a concentration in Data Science from the University of Tennessee at Chattanooga in 2021.
 
-Born and raised in India. I attended my freshman and sophomore year of university at <a href="https://www.daiict.ac.in/">Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)</a> after which I moved to USA and graduated from UTC.
+During my undergraduate studies, I had the privilege of working as an undergraduate researcher at the <a href="https://www.utc.edu/research/center-urban-informatics-and-progress">Center for Urban Informatics and Progress (CUIP)</a> under the guidance of Dr. Mina Sartipi. There, I contributed to a public transit optimization project in collaboration with Chattanooga's public bus transit service, CARTA.
+
+Born and raised in India, I attended my freshman and sophomore years at the esteemed <a href="https://www.daiict.ac.in/">Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)</a> before moving to the United States to complete my degree at UTC.
+
+My diverse academic and professional experiences have equipped me with a strong foundation in data science, analytics, and software engineering, allowing me to tackle complex challenges with a unique perspective.
