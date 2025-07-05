@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my Resume can be downloaded [here](http://yatri1609.github.io/files/Yatri-Patel-Resume-24.pdf)
+A PDF of my Resume can be downloaded [here](http://yatri1609.github.io/files/Yatri-Patel-Resume-25.pdf)
